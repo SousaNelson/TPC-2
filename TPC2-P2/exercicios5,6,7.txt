@@ -1,0 +1,20 @@
+Parte 2
+5.
+["Ann", "Cal"]
+
+6. 	
+
+	ArrayList <String> names;
+	names.add(Bob)
+O ArrayList não está inicializado -> ArrayListt <String> names = new ArrayList <String>();
+E Bob é uma string logo deve ficar entre aspas.
+
+7.
+a) 25
+b) 13
+c) 12
+d) 22
+e) 11
+f) 25
+g) 12
+h) -1
